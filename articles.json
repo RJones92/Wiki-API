@@ -1,0 +1,22 @@
+{
+    "_id" : ObjectId("5d8d0717731eb196851fb096"),
+    "title" : "REST",
+    "content" : "REST is short for REpresentational State Transfer. It's an architectural style for creating APIs."
+}
+
+{
+    "_id" : ObjectId("5d8d07eb731eb196851fb0bf"),
+    "title" : "RESTful verbs",
+    "content" : "The verbs used in REST APIs are: GET, PUT, POST, PATCH and DELETE. This is very similar to CRUD for databases. GET & Read; POST & Create; PUT, PATCH & Update; DELETE & Delete."
+}
+
+{
+    "_id" : ObjectId("5d8d08e4731eb196851fb0e0"),
+    "title" : "Specific pattern of Routes and Endpoints for a RESTful API",
+    "content" : "Using the example URL suffix /article and /article/REST-article. GET /article should fetch all articles. GET /article/REST-article should fetch only the article REST-article. POST /article will create one new article. PUT and PATCH /article/REST-article will update the REST-article. DELETE /article deletes all the articles, and DELETE /article/REST-article deletes only the REST-article."
+}
+{
+    "_id" : ObjectId("5d8df37bcf42e608c03b1815"),
+    "title" : "Rocky Balboa",
+    "content" : "Dolph Lundgren, the Russian from Rocky IV, almost killed Rocky for real"
+}
